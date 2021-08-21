@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const { writeFile } = require("./src/generate-html");
+const { writeFile } = require("./src/generate-html-file");
 const generatePage = require("./src/page-template");
 
 const promptManager = () => {
