@@ -32,7 +32,7 @@
   ## Screenshot
    ![Screenshot](./screenshot.png)
   ## Walkthrough
-  [![Youtube](https://img.youtube.com/vi/mXTz4EXXfaA/0.jpg)](https://youtu.be/mXTz4EXXfaA)
+  [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk)
   ## Testing
     To test, download or clone the project and then type "node index.js" from the root directory.
   ## ProjectRepo 
